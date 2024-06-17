@@ -1,0 +1,4 @@
+0000000000000000000000000000000000000000 3ec068978f4900a86f2d872cf9024eaf08b9a1f6 Hendrik Melse <hendrik.melse@wsu.edu> 1562883498 -0700	initial pull
+3ec068978f4900a86f2d872cf9024eaf08b9a1f6 cc75630782858d66a122400639de6887ace1831e Hendrik Melse <hendrik.melse@wsu.edu> 1563560862 -0700	commit: Switched everything to PHP
+cc75630782858d66a122400639de6887ace1831e 271597e5c5e53bb6e83e231595affe93a961a8b5 Hendrik Melse <hendrik.melse@wsu.edu> 1563843948 -0700	commit: Pretty URLS, refactored footer
+271597e5c5e53bb6e83e231595affe93a961a8b5 6aba81800fde7a821b3c12399169010b24acea14 Hendrik Melse <hendrik.melse@wsu.edu> 1564088114 -0700	commit: Added contact page, content to Baertools page
